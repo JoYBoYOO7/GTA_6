@@ -1,15 +1,29 @@
+<div align="center">
+  <br />
+    <a href="" target="_blank">
+      <img src="public/readme/hero.png" alt="Project Banner">
+    </a>
+  <br />
+  
+   <div>
+    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+
+  <h3 align="center">GTA VI Website w/ GSAP</h3>
+
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
+1. ✍ [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+3. 📝 [Features](#features)
+4. 🚀 [Quick Start](#quick-start)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">✍ Introduction</a>
 
 Recreate the viral GTA VI website with React, Tailwind CSS, and GSAP. Build and deploy a scroll-driven experience packed with cinematic animations using GSAP’s ScrollTrigger. Pin sections in place, sync video playback with scroll, and add smooth parallax and image masking effects. A modern, responsive site that brings high-impact motion design to life on the web.
 
@@ -24,7 +38,7 @@ Recreate the viral GTA VI website with React, Tailwind CSS, and GSAP. Build and 
 - **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
 
 
-## <a name="features">🔋 Features</a>
+## <a name="features">📝 Features</a>
 
 👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
 
@@ -42,7 +56,7 @@ Recreate the viral GTA VI website with React, Tailwind CSS, and GSAP. Build and 
 
 And many more, including enhanced security and optimized video performance!
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🚀 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -53,6 +67,12 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/basedhound/gta-gsap_react.git
+```
 
 **Installation**
 
